@@ -2,7 +2,7 @@
 
 ---
 
-- By deouf
+- By daniilsys
 - **discord.js** @ 14.7
 - sequelize @ 6.29
 - sqlite3 @ 5.1
@@ -27,4 +27,4 @@ Add a `database.sqlite` file on the main directory
 - [Sequelize](https://sequelize.org/)
 
 # Help
-Errors/Problems ? Contact me here: Discord: wtpw
+Errors/Problems ? Contact me here: Discord: daniilsys
